@@ -92,12 +92,6 @@ Some important insights discovered during the analysis:
 - **Action and Adventure** genres dominate high-grossing movies.
 - Certain directors appear multiple times in blockbuster films.
 
----
-
-## 📷 Dashboard Preview
-(Add your Power BI dashboard screenshot here)
-
----
 
 ## 🚀 Skills Demonstrated
 This project demonstrates the following data analytics skills:
